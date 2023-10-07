@@ -1,5 +1,10 @@
 # GitHub Profile Web App using JavaScript
 
+## url
+https://anupam-singh88.github.io/github_profiles/
+
+![image](https://github.com/anupam-singh88/github_profiles/assets/89381022/038352d7-e6b0-4a3a-a636-7af70fabc62b)
+
 ## Description
 This is a JavaScript project that creates a GitHub profile web application. The application uses the GitHub API to dynamically fetch user details as entered in the input box and shows all the followers and repositories of the user.
 
@@ -19,5 +24,4 @@ This is a JavaScript project that creates a GitHub profile web application. The 
 2. Open the `index.html` file in your browser.
 3. Enter a GitHub username in the input box to view the user's details, followers, and repositories.
 
-##url
-https://anupam-singh88.github.io/github_profiles/
+
